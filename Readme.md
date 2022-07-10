@@ -7,13 +7,13 @@ This is a Youtube Video Downloader Application made in Python using Tkinter libr
 
 ## Screen Shots:
 <div align="center">
-  <img src="./images/s1.jpg" height="400"  alt="S1">
+  <img src=".\images\s1.png" height="400"  alt="S1">
 </div>
 <div align="center">
-  <img src="./images/s2.jpg" height="400"  alt="S2">
+  <img src="./images/s2.png" height="400"  alt="S2">
 </div>
 <div align="center">
-  <img src="./images/s3.jpg" height="400"  alt="S2">
+  <img src="./images/s3.png" height="400"  alt="S2">
 </div>
 
 
